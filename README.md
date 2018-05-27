@@ -1,4 +1,4 @@
 # hello-world
-this repository is due to the github tutorial
+this repository is for first github repo
 
 tutorial for new branch, commits, pull requests and merges
